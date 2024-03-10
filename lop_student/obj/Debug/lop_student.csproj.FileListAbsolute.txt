@@ -1,0 +1,7 @@
+D:\luu tru vao day\lung tung\chua c#\lop_student\lop_student\bin\Debug\lop_student.exe.config
+D:\luu tru vao day\lung tung\chua c#\lop_student\lop_student\bin\Debug\lop_student.exe
+D:\luu tru vao day\lung tung\chua c#\lop_student\lop_student\bin\Debug\lop_student.pdb
+D:\luu tru vao day\lung tung\chua c#\lop_student\lop_student\obj\Debug\lop_student.csproj.AssemblyReference.cache
+D:\luu tru vao day\lung tung\chua c#\lop_student\lop_student\obj\Debug\lop_student.csproj.CoreCompileInputs.cache
+D:\luu tru vao day\lung tung\chua c#\lop_student\lop_student\obj\Debug\lop_student.exe
+D:\luu tru vao day\lung tung\chua c#\lop_student\lop_student\obj\Debug\lop_student.pdb
